@@ -24,8 +24,8 @@ The application requires the following permissions to function correctly:
 
 ### Screenshots
 
-![Scanner page](screenshots/scanner.jpg)
-![Settings page](screenshots/settings.jpg)
+<img src="./screenshots/scanner.jpg" alt="Scanner page" width="300"/>
+<img src="./screenshots/settings.jpg" alt="Settings page" width="300"/>
 
 ### Building the Android App
 
