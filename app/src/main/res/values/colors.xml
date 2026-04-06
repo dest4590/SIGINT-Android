@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_dark">#FF2A2A2A</color>
+    <color name="gray_light">#FFCCCCCC</color>
+    <color name="card_bg">#FF1A1A1A</color>
+    <color name="divider">#FF333333</color>
+
+    <!-- RSSI quality colours -->
+    <color name="rssi_good">#FF4CAF50</color>
+    <color name="rssi_medium">#FFFFC107</color>
+    <color name="rssi_bad">#FFF44336</color>
+
+    <!-- Accent colours for vendor/services -->
+    <color name="accent_cyan">#FF00BCD4</color>
+    <color name="accent_yellow">#FFFFC107</color>
+    <color name="accent_blue">#FF2196F3</color>
+    <color name="accent_orange">#FFFF9800</color>
+
+    <!-- Device-type badge tints -->
+    <color name="badge_phone">#FF42A5F5</color>
+    <color name="badge_headphones">#FFAB47BC</color>
+    <color name="badge_speaker">#FF26C6DA</color>
+    <color name="badge_watch">#FF66BB6A</color>
+    <color name="badge_beacon">#FFFFA726</color>
+    <color name="badge_laptop">#FF78909C</color>
+    <color name="badge_iot">#FF8D6E63</color>
+    <color name="badge_car">#FFEF5350</color>
+    <color name="badge_medical">#FF26A69A</color>
+    <color name="badge_fitness">#FFD4E157</color>
+    <color name="badge_unknown">#FF9E9E9E</color>
+</resources>
